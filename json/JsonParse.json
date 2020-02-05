@@ -1,0 +1,21 @@
+
+
+{
+     "lastName":"Achina",
+    "address":{
+        "streetAddress":"123 Island Way",
+         "city":"Osu, Accra",
+         "state":"DC",
+         "postalCode": 23324
+    },
+     "age":40,
+     "phoneNumbers":[
+            {
+            "type":"home", "number":"233-27-772-8022"
+            },
+         {
+            "type":"fax", "number":"801 297-8785"
+         }
+     ],
+     "firstName":"Felix"
+}
